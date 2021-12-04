@@ -1,8 +1,8 @@
-namespace AdventOfCode2021.DayOne.Constants;
+namespace AdventOfCode2021.Constants;
 
 public static class InputConstants
 {
-        public static readonly int[] InputDataSet = new[]
+        public static readonly int[] DayOneInputDataSet = new[]
     {
         127,
         147,

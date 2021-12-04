@@ -1,10 +1,10 @@
-using AdventOfCode2021.DayOne.Constants;
+using AdventOfCode2021.Constants;
 
 namespace AdventOfCode2021.DayOne;
 
 public class DayOne
 {
-    private readonly int[] _inputDataSet = InputConstants.InputDataSet;
+    private readonly int[] _inputDataSet = InputConstants.DayOneInputDataSet;
     
     public void Solutions()
     {
