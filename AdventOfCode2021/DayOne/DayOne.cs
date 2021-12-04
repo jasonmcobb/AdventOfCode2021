@@ -34,7 +34,6 @@ public class DayOne
         var count = 0;
         var notFirstLoop = false;
         
-        
         foreach (var item in _inputDataSet)
         {
             if (notFirstLoop)
